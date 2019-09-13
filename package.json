@@ -1,0 +1,22 @@
+{
+  "name": "ismagic",
+  "version": "1.0.1",
+  "description": "Shadows for images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sivasaikrishna/ismagic.git"
+  },
+  "keywords": [
+    "images"
+  ],
+  "author": "ysskrishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sivasaikrishna/ismagic/issues"
+  },
+  "homepage": "https://github.com/sivasaikrishna/ismagic#readme"
+}

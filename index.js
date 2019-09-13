@@ -1,9 +1,9 @@
 function ismagic(options) {
   let images = document.querySelectorAll('.ismagic');
   if (options.shadow_type === 'hard'){
-    options.shadow_type == '0px'
+    options.shadow_type = '0px'
   } else if (options.shadow_type === 'soft') {
-    options.shadow_type == '15px'
+    options.shadow_type = '15px'
   }
 
   images.forEach(image => {
